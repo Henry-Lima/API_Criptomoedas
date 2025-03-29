@@ -1,2 +1,2 @@
-# API_Criptomoedas
-uma api com Crud sobre criptomoedas feita em laravel
+# Api_criptomoeda
+fazendo crud(incompleto) com uma api em Laravel 
